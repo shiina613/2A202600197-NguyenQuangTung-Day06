@@ -24,4 +24,5 @@ Lab 06 (AI Product & Hackathon) · AI in Action · VinUni & Vingroup
 2A202600197-NguyenQuangTung-Day06/
 ├── reflection.md   ← [NỘP] Individual reflection — 7 phần
 └── README.md
+└── demo.mp4
 ```
